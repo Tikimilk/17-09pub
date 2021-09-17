@@ -1,0 +1,39 @@
+{
+  "physics": [
+    {
+      "name": "မက္ကင်းနစ်",
+      "sections": [
+        {
+          "name": "Kinematics",
+          "complexity": "ပျမ်းမျှ",
+          "interest": "ကြီးမြတ်သည်",
+          "bool": "မှန်ပါတယ်"
+        },
+        {
+          "name": "Hydrodynamics",
+          "complexity": "၄",
+          "interest": "၃",
+          "bool": "မှားသည်"
+        }
+      ]
+    },
+    {
+      "note": "ထပ်တိုး",
+      "useful links": [
+        {
+          "url": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0"
+        }
+      ]
+    },
+    {
+      "name": "လျှပ်စစ်မီး",
+      "sections": [
+        {
+          "name": "electrostatics ဖြစ်သည်",
+          "complexity": "လေး",
+          "interest": "ငါး"
+        }
+      ]
+    }
+  ]
+}
