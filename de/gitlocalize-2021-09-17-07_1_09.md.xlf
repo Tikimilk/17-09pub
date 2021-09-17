@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2">
+  <file original="de/07_1_09.md" source-language="en" target-language="de">
+   <body>
+    <trans-unit id="7343167">
+      <source xml:lang="en">Kate2</source>
+      <target xml:lang="de">1Kate2</target>
+    </trans-unit>
+    <trans-unit id="7343166">
+      <source xml:lang="en">Interprète</source>
+      <target xml:lang="de">Dolmetscher</target>
+    </trans-unit>
+    <trans-unit id="7343165">
+      <source xml:lang="en">Inna</source>
+      <target xml:lang="de">Inna</target>
+    </trans-unit>
+    <trans-unit id="7343164">
+      <source xml:lang="en">Ingénieur</source>
+      <target xml:lang="de">Ingenieur</target>
+    </trans-unit>
+    <trans-unit id="7343163">
+      <source xml:lang="en">Kate1</source>
+      <target xml:lang="de">Kate1</target>
+    </trans-unit>
+    <trans-unit id="7343162">
+      <source xml:lang="en">Médecin</source>
+      <target xml:lang="de">Medizin</target>
+    </trans-unit>
+    <trans-unit id="7343161">
+      <source xml:lang="en">Victor</source>
+      <target xml:lang="de">Sieger</target>
+    </trans-unit>
+    <trans-unit id="7343160">
+      <source xml:lang="en">Interprète</source>
+      <target xml:lang="de">Dolmetscher</target>
+    </trans-unit>
+    <trans-unit id="7343159">
+      <source xml:lang="en">Non</source>
+      <target xml:lang="de">Nicht</target>
+    </trans-unit>
+    <trans-unit id="7343158">
+      <source xml:lang="en">conducteur</source>
+      <target xml:lang="de">Dirigent</target>
+    </trans-unit>
+    <trans-unit id="7343157">
+      <source xml:lang="en">Dick</source>
+      <target xml:lang="de">Dick</target>
+    </trans-unit>
+    <trans-unit id="7343156">
+      <source xml:lang="en">référence</source>
+      <target xml:lang="de">Hinweis</target>
+    </trans-unit>
+    <trans-unit id="7343170">
+      <source xml:lang="en">filles1</source>
+      <target xml:lang="de">Füllungen1</target>
+    </trans-unit>
+    <trans-unit id="7343169">
+      <source xml:lang="en">filles2</source>
+      <target xml:lang="de">Füllungen2</target>
+    </trans-unit>
+    <trans-unit id="7343168">
+      <source xml:lang="en">filles3</source>
+      <target xml:lang="de">füllt3</target>
+    </trans-unit>
+    <trans-unit id="7343201">
+      <source xml:lang="en">Des exercices</source>
+      <target xml:lang="de">Des Übungen</target>
+    </trans-unit>
+    <trans-unit id="7343200">
+      <source xml:lang="en">Exercices 1</source>
+      <target xml:lang="de">Übungen 1</target>
+    </trans-unit>
+    <trans-unit id="7343195">
+      <source xml:lang="en">Quel âge as-tu?</source>
+      <target xml:lang="de">Wie alt bist du?</target>
+    </trans-unit>
+    <trans-unit id="7343194">
+      <source xml:lang="en">Où est ta nouvelle voiture ? - Là-bas.</source>
+      <target xml:lang="de">Où est ta nouvelle voiture ? - La-bas.</target>
+    </trans-unit>
+    <trans-unit id="7343193">
+      <source xml:lang="en">Est-ce votre bibliothèque ?</source>
+      <target xml:lang="de">Est-ce votre bibliothèque ?</target>
+    </trans-unit>
+    <trans-unit id="7343199">
+      <source xml:lang="en">Exercices 2</source>
+      <target xml:lang="de">Übungen 2</target>
+    </trans-unit>
+    <trans-unit id="7343192">
+      <source xml:lang="en">Quel âge ont-ils?</source>
+      <target xml:lang="de">Quelâge ont-ils?</target>
+    </trans-unit>
+    <trans-unit id="7343191">
+      <source xml:lang="en">Quel âge as-tu?</source>
+      <target xml:lang="de">Wie alt bist du?</target>
+    </trans-unit>
+    <trans-unit id="7343198">
+      <source xml:lang="en">Devis</source>
+      <target xml:lang="de">Devis</target>
+    </trans-unit>
+    <trans-unit id="7343190">
+      <source xml:lang="en">La vie est comme une boîte de chocolats, tu ne sais jamais ce que tu vas avoir</source>
+      <target xml:lang="de">La vie est comme une boîte de chocolats, tu ne sais jamais ce que tu vas avoir</target>
+    </trans-unit>
+    <trans-unit id="7343188">
+      <source xml:lang="en">Ce ne sont pas nos capacités qui montrent ce que nous sommes vraiment. C'est nos choix.</source>
+      <target xml:lang="de">Ce ne sont pas nos capacités qui montrent ce que nous sommes vraiment. C'est nos choix.</target>
+    </trans-unit>
+    <trans-unit id="7343187">
+      <source xml:lang="en">Certaines personnes ne peuvent pas croire en elles-mêmes tant que quelqu'un d'autre n'y croit pas d'abord.</source>
+      <target xml:lang="de">Bestimmte personnes ne peuvent pas croire en elles-mêmes tant que quelqu'un d'autre n'y croit pas d'abord.</target>
+    </trans-unit>
+    <trans-unit id="7343186">
+      <source xml:lang="en">Marque</source>
+      <target xml:lang="de">Marke</target>
+    </trans-unit>
+    <trans-unit id="7343185">
+      <source xml:lang="en">Pays</source>
+      <target xml:lang="de">Zahlt sich aus</target>
+    </trans-unit>
+    <trans-unit id="7343184">
+      <source xml:lang="en">BMW</source>
+      <target xml:lang="de">BMW</target>
+    </trans-unit>
+    <trans-unit id="7343183">
+      <source xml:lang="en">Allemagne</source>
+      <target xml:lang="de">Allemagne</target>
+    </trans-unit>
+    <trans-unit id="7343182">
+      <source xml:lang="en">Citroën</source>
+      <target xml:lang="de">Citroën</target>
+    </trans-unit>
+    <trans-unit id="7343181">
+      <source xml:lang="en">La France</source>
+      <target xml:lang="de">La Frankreich</target>
+    </trans-unit>
+    <trans-unit id="7343155">
+      <source xml:lang="en"><a href="https://autoidea.by/" data-md-type="link">BMW</a></source>
+      <target xml:lang="de"><a href="https://autoidea.by/" data-md-type="link">BMW</a></target>
+    </trans-unit>
+    <trans-unit id="7343154">
+      <source xml:lang="en"><a href="https://www.citroen.by/" data-md-type="link">cité</a></source>
+      <target xml:lang="de"><a href="https://www.citroen.by/" data-md-type="link">zitieren</a></target>
+    </trans-unit>
+    <trans-unit id="7343197">
+      <source xml:lang="en">photo</source>
+      <target xml:lang="de">Foto</target>
+    </trans-unit>
+    <trans-unit id="7343196">
+      <source xml:lang="en"><img src="https://drive.google.com/file/d/1DOGDrudAldfgJeLKgOGoblgRM0CcIjv_/view?usp=sharing" alt="hi" title="c'est l'infobulle" data-md-type="image"/> <img src="https://drive.google.com/file/d/192JoAyqDkddY_35FYzuDgaItdI2U_6gm/view?usp=sharing" alt="ho" data-md-type="image"/></source>
+      <target xml:lang="de"><img src="https://drive.google.com/file/d/1DOGDrudAldfgJeLKgOGoblgRM0CcIjv_/view?usp=sharing" alt="hi" title="c'est l'infobulle" data-md-type="image"/><img src="https://drive.google.com/file/d/192JoAyqDkddY_35FYzuDgaItdI2U_6gm/view?usp=sharing" alt="ho" data-md-type="image"/></target>
+    </trans-unit>
+    <trans-unit id="7343180">
+      <source xml:lang="en">~~Marque~~</source>
+      <target xml:lang="de">~~Marke~~</target>
+    </trans-unit>
+    <trans-unit id="7343179">
+      <source xml:lang="en">Pays</source>
+      <target xml:lang="de">Zahlt sich aus</target>
+    </trans-unit>
+    <trans-unit id="7343178">
+      <source xml:lang="en">BMW</source>
+      <target xml:lang="de">BMW</target>
+    </trans-unit>
+    <trans-unit id="7343177">
+      <source xml:lang="en">Allemagne</source>
+      <target xml:lang="de">Allemagne</target>
+    </trans-unit>
+    <trans-unit id="7343176">
+      <source xml:lang="en">Citroën</source>
+      <target xml:lang="de">Citroën</target>
+    </trans-unit>
+    <trans-unit id="7343171">
+      <source xml:lang="en">La France</source>
+      <target xml:lang="de">La Frankreich</target>
+    </trans-unit>
+    <trans-unit id="7343175">
+      <source xml:lang="en">Citroën</source>
+      <target xml:lang="de">Citroën</target>
+    </trans-unit>
+    <trans-unit id="7343174">
+      <source xml:lang="en">La France</source>
+      <target xml:lang="de">La Frankreich</target>
+    </trans-unit>
+    <trans-unit id="7343173">
+      <source xml:lang="en">BMW</source>
+      <target xml:lang="de">BMW</target>
+    </trans-unit>
+    <trans-unit id="7343172">
+      <source xml:lang="en">Allemagne</source>
+      <target xml:lang="de">Allemagne</target>
+    </trans-unit>
+    <trans-unit id="7343189">
+      <source xml:lang="en">{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+</source>
+      <target xml:lang="de">{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+</target>
+    </trans-unit>
+   </body>
+  </file>
+</xliff>
